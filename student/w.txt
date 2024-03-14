@@ -1,0 +1,19 @@
+admin:
+	- class scheduling
+	- registration ng subjects
+	- admin viewing ng grades
+	- seperate ang junior and senior
+		(HUMMS, STEM ICT)
+		(Grade 7 -10)
+students
+	- viewing ng grades
+	- student schedule
+	- viewing ng modules and exam
+	- filter option
+	- archive ng grades
+	
+faculty (magkaiba ng faculty senior and junior)
+	- add ng exam/modules
+	- add ng grades
+	- class scheduling
+	- ang exam ay for senior highschool lang
